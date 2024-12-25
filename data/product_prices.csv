@@ -1,0 +1,89 @@
+category,subcategory,product,price,frequency
+Food and Beverages,Produce,Fruits,3.0,0.009811937857726901
+Food and Beverages,Produce,Vegetables,2.0,0.012673753066230581
+Food and Beverages,Dairy,Milk,1.5,0.008585445625511038
+Food and Beverages,Dairy,Cheese,5.0,0.009811937857726901
+Food and Beverages,Dairy,Yogurt,2.5,0.008585445625511038
+Food and Beverages,Dairy,Eggs,2.0,0.019623875715453803
+Food and Beverages,Meat,Beef,8.0,0.011856091578086671
+Food and Beverages,Meat,Pork,7.0,0.0024529844644317253
+Food and Beverages,Meat,Chicken,5.0,0.003679476696647588
+Food and Beverages,Meat,Lamb,10.0,0.016762060506950123
+Food and Beverages,Seafood,Fresh Fish,15.0,0.016762060506950123
+Food and Beverages,Seafood,Shellfish,20.0,0.015126737530662305
+Food and Beverages,Seafood,Frozen Seafood,10.0,0.003679476696647588
+Food and Beverages,Bakery,Bread,3.0,0.004905968928863451
+Food and Beverages,Bakery,Cakes,6.0,0.00776778413736713
+Food and Beverages,Bakery,Pastries,4.0,0.019623875715453803
+Food and Beverages,Deli,Cold Cuts,7.0,0.006950122649223222
+Food and Beverages,Deli,Prepared Foods,5.0,0.004905968928863451
+Food and Beverages,Deli,Cheeses,6.0,0.019623875715453803
+Food and Beverages,Frozen Foods,Frozen Vegetables,3.0,0.013082583810302535
+Food and Beverages,Frozen Foods,Ready-to-Eat Meals,7.0,0.017170891251022075
+Food and Beverages,Frozen Foods,Ice Cream,4.0,0.004088307440719542
+Food and Beverages,Canned and Packaged Goods,Soups,2.0,0.008994276369582993
+Food and Beverages,Canned and Packaged Goods,Beans,1.0,0.017988552739165987
+Food and Beverages,Canned and Packaged Goods,Pasta,1.5,0.01553556827473426
+Food and Beverages,Canned and Packaged Goods,Sauces,2.0,0.006950122649223222
+Food and Beverages,Snacks,Chips,2.5,0.008994276369582993
+Food and Beverages,Snacks,Cookies,3.0,0.01553556827473426
+Food and Beverages,Snacks,Nuts,6.0,0.012673753066230581
+Food and Beverages,Snacks,Popcorn,1.5,0.015126737530662305
+Food and Beverages,Beverages,Soft Drinks,1.5,0.006950122649223222
+Food and Beverages,Beverages,Juices,2.0,0.019215044971381847
+Food and Beverages,Beverages,Coffee,5.0,0.006132461161079314
+Food and Beverages,Beverages,Tea,4.0,0.009811937857726901
+Food and Beverages,Beverages,Alcohol,10.0,0.003270645952575634
+Household and Personal Care,Cleaning Supplies,Detergents,3.0,0.016762060506950123
+Household and Personal Care,Cleaning Supplies,Soaps,2.0,0.013082583810302535
+Household and Personal Care,Cleaning Supplies,Disinfectants,4.0,0.015126737530662305
+Household and Personal Care,Paper Products,Toilet Paper,5.0,0.019215044971381847
+Household and Personal Care,Paper Products,Paper Towels,6.0,0.005723630417007359
+Household and Personal Care,Paper Products,Napkins,3.0,0.01349141455437449
+Household and Personal Care,Personal Care,Shampoos,5.0,0.019623875715453803
+Household and Personal Care,Personal Care,Toothpaste,2.0,0.009811937857726901
+Household and Personal Care,Personal Care,Cosmetics,8.0,0.01062959934587081
+Household and Personal Care,Health and Wellness,Over-the-Counter Medicines,5.0,0.016353229762878167
+Household and Personal Care,Health and Wellness,Vitamins,10.0,0.005314799672935405
+Specialty Departments,Prepared Meals,Grab-and-Go Sandwiches,7.0,0.018806214227309895
+Specialty Departments,Prepared Meals,Salads,5.0,0.006132461161079314
+Specialty Departments,Prepared Meals,Pre-Cooked Meals,6.0,0.017170891251022075
+Specialty Departments,Floral,Fresh Flowers,10.0,0.005723630417007359
+Specialty Departments,Floral,Plants,8.0,0.012264922322158627
+Specialty Departments,Home Goods,Cooking Utensils,5.0,0.011856091578086671
+Specialty Departments,Home Goods,Storage Containers,4.0,0.005314799672935405
+Specialty Departments,Home Goods,Small Appliances,20.0,0.011038430089942763
+Specialty Departments,Seasonal Items,Holiday Decorations,15.0,0.014717906786590351
+Specialty Departments,Seasonal Items,Summer BBQ Supplies,10.0,0.013900245298446443
+Specialty Departments,Seasonal Items,Halloween Costumes,63.0,0.007358953393295176
+Specialty Departments,Electronics,Laptops,800.0,0.006132461161079314
+Specialty Departments,Electronics,TVs,500.0,0.005723630417007359
+Specialty Departments,Electronics,Smartphones,400.0,0.012673753066230581
+Specialty Departments,Electronics,Headphones,50.0,0.016762060506950123
+Specialty Departments,Electronics,Gaming Consoles,250.0,0.01553556827473426
+Specialty Departments,Stationery,Notebooks,3.0,0.008585445625511038
+Specialty Departments,Stationery,Pens,1.0,0.01349141455437449
+Specialty Departments,Stationery,Office Supplies,5.0,0.019215044971381847
+Specialty Departments,Fashion,Apparel,30.0,0.019623875715453803
+Specialty Departments,Fashion,Shoes,50.0,0.017988552739165987
+Specialty Departments,Fashion,Accessories,20.0,0.006132461161079314
+Specialty Departments,Fashion,Outerwear,100.0,0.005314799672935405
+Specialty Departments,Toys & Games,Electronics for Kids,40.0,0.006132461161079314
+Specialty Departments,Toys & Games,Board Games,20.0,0.005314799672935405
+Specialty Departments,Toys & Games,Action Figures,15.0,0.008994276369582993
+Specialty Departments,Beauty & Personal Care,Skincare,20.0,0.006132461161079314
+Specialty Departments,Beauty & Personal Care,Hair Care,15.0,0.0024529844644317253
+Specialty Departments,Beauty & Personal Care,Perfumes,25.0,0.002044153720359771
+Specialty Departments,Beauty & Personal Care,Cosmetics,8.0,0.0024529844644317253
+Specialty Departments,Books,Fiction,10.0,0.018806214227309895
+Specialty Departments,Books,Non-Fiction,10.0,0.013900245298446443
+Specialty Departments,Books,Cookbooks,10.0,0.018806214227309895
+Specialty Departments,Books,Magazines,10.0,0.019623875715453803
+Specialty and Luxury,Pharmacy,Prescription Medications,15.0,0.019623875715453803
+Specialty and Luxury,Pharmacy,Wellness Products,20.0,0.013900245298446443
+Specialty and Luxury,Wine and Spirits,Liquor,20.0,0.014309076042518397
+Specialty and Luxury,Wine and Spirits,Beer,8.0,0.006541291905151268
+Specialty and Luxury,Wine and Spirits,Wine,15.0,0.002044153720359771
+Specialty and Luxury,Gourmet Foods,Specialty Cheeses,25.0,0.0024529844644317253
+Specialty and Luxury,Gourmet Foods,Fine Chocolates,10.0,0.017170891251022075
+Specialty and Luxury,Gourmet Foods,Imported Items,50.0,0.017988552739165987
